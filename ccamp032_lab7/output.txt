@@ -1,0 +1,144 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for edu.ucr.cs.cs167.ccamp032:ccamp032_lab7:jar:1.0-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ line 99, column 15
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------< [0;36medu.ucr.cs.cs167.ccamp032:ccamp032_lab7[0;1m >---------------[m
+[[1;34mINFO[m] [1mBuilding ccamp032_lab7 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Deleting /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscala-maven-plugin:3.3.2:compile[m [1m(default)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/src/main/scala:-1: info: compiling
+[[1;34mINFO[m] Compiling 1 source files to /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/target/classes at 1589857372547
+[[1;34mINFO[m] prepare-compile in 0 s
+[[1;34mINFO[m] compile in 16 s
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscala-maven-plugin:3.3.2:testCompile[m [1m(default)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/src/test/scala:-1: info: compiling
+[[1;34mINFO[m] Compiling 3 source files to /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/target/test-classes at 1589857389373
+[[1;34mINFO[m] prepare-compile in 0 s
+[[1;34mINFO[m] compile in 12 s
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.21.0:test[m [1m(default-test)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Tests are skipped.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscalatest-maven-plugin:2.0.0:test[m [1m(test)[m @ [36mccamp032_lab7[0;1m ---[m
+[36mRun starting. Expected test count is: 1[0m
+[32mJUnitWrapperSuite:[0m
+[32m- testOK[0m
+[36mRun completed in 424 milliseconds.[0m
+[36mTotal number of tests run: 1[0m
+[36mSuites: completed 1, aborted 0[0m
+[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m
+[32mAll tests passed.[0m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:2.4:jar[m [1m(default-jar)[m @ [36mccamp032_lab7[0;1m ---[m
+[[1;34mINFO[m] Building jar: /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab7/target/ccamp032_lab7-1.0-SNAPSHOT.jar
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  01:06 min
+[[1;34mINFO[m] Finished at: 2020-05-18T20:03:29-07:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+Operation write-parquet on file 'Crimes_-_2001_to_present.csv' finished in 63.4675889 seconds
+Operation write-parquet-partitioned on file 'Crimes_-_2001_to_present.csv' finished in 67.24603590000001 seconds
++---------------+-----------+
+|   Primary_Type|Crime_Count|
++---------------+-----------+
+|          THEFT|    1505077|
+|        BATTERY|    1301860|
+|CRIMINAL DAMAGE|     809303|
+|      NARCOTICS|     730799|
+|        ASSAULT|     447484|
++---------------+-----------+
+
+Operation top-crime-types on file 'Crimes_-_2001_to_present.csv' finished in 16.7165058 seconds
++---------------+-----------+
+|   Primary_Type|Crime_Count|
++---------------+-----------+
+|          THEFT|    1505077|
+|        BATTERY|    1301860|
+|CRIMINAL DAMAGE|     809303|
+|      NARCOTICS|     730799|
+|        ASSAULT|     447484|
++---------------+-----------+
+
+Operation top-crime-types on file 'cc.parquet' finished in 12.99178 seconds
++---------------+-----------+
+|   Primary_Type|Crime_Count|
++---------------+-----------+
+|          THEFT|    1505077|
+|        BATTERY|    1301860|
+|CRIMINAL DAMAGE|     809303|
+|      NARCOTICS|     730799|
+|        ASSAULT|     447484|
++---------------+-----------+
+
+Operation top-crime-types on file 'cc-p.parquet' finished in 14.872463600000001 seconds
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+|      ID|Case_Number|                Date|            Block|IUCR|Primary_Type| Description|Location_Description|Arrest|Domestic|Beat|District|Ward|Community_Area|FBI_Code|X_Coordinate|Y_Coordinate|Year|          Updated_On|    Latitude|    Longitude|            Location|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+|10226583|   HY413923|09/07/2015 12:32:...|003XX E BENTON PL|0860|       THEFT|RETAIL THEFT|  GROCERY FOOD STORE|  true|   false| 114|       1|  42|            32|      06|     1178860|     1901675|2015|02/10/2018 03:50:...|41.885495793|-87.618644375|(41.885495793, -8...|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+
+Operation find on file 'Crimes_-_2001_to_present.csv' finished in 27.7449364 seconds
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+|      ID|Case_Number|                Date|            Block|IUCR|Primary_Type| Description|Location_Description|Arrest|Domestic|Beat|District|Ward|Community_Area|FBI_Code|X_Coordinate|Y_Coordinate|Year|          Updated_On|    Latitude|    Longitude|            Location|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+|10226583|   HY413923|09/07/2015 12:32:...|003XX E BENTON PL|0860|       THEFT|RETAIL THEFT|  GROCERY FOOD STORE|  true|   false| 114|       1|  42|            32|      06|     1178860|     1901675|2015|02/10/2018 03:50:...|41.885495793|-87.618644375|(41.885495793, -8...|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+--------+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+
+
+Operation find on file 'cc.parquet' finished in 11.8509276 seconds
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+--------+
+|      ID|Case_Number|                Date|            Block|IUCR|Primary_Type| Description|Location_Description|Arrest|Domestic|Beat|Ward|Community_Area|FBI_Code|X_Coordinate|Y_Coordinate|Year|          Updated_On|    Latitude|    Longitude|            Location|District|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+--------+
+|10226583|   HY413923|09/07/2015 12:32:...|003XX E BENTON PL|0860|       THEFT|RETAIL THEFT|  GROCERY FOOD STORE|  true|   false| 114|  42|            32|      06|     1178860|     1901675|2015|02/10/2018 03:50:...|41.885495793|-87.618644375|(41.885495793, -8...|       1|
++--------+-----------+--------------------+-----------------+----+------------+------------+--------------------+------+--------+----+----+--------------+--------+------------+------------+----+--------------------+------------+-------------+--------------------+--------+
+
+Operation find on file 'cc-p.parquet' finished in 9.4502088 seconds
+Operation stats on file 'Crimes_-_2001_to_present.csv' finished in 22.539028000000002 seconds
+Operation stats on file 'cc.parquet' finished in 17.3762082 seconds
+Operation stats on file 'cc-p.parquet' finished in 17.7802212 seconds
++--------+-------------+--------------+----------------+
+|District|Total_Arrests|Total_Domestic|    Average_Beat|
++--------+-------------+--------------+----------------+
+|       8|       113886|         64327|824.010928201529|
++--------+-------------+--------------+----------------+
+
+Operation stats-district on file 'Crimes_-_2001_to_present.csv' finished in 15.5002747 seconds
++--------+-------------+--------------+----------------+
+|District|Total_Arrests|Total_Domestic|    Average_Beat|
++--------+-------------+--------------+----------------+
+|       8|       113886|         64327|824.010928201529|
++--------+-------------+--------------+----------------+
+
+Operation stats-district on file 'cc.parquet' finished in 11.1073441 seconds
++--------+-------------+--------------+----------------+
+|District|Total_Arrests|Total_Domestic|    Average_Beat|
++--------+-------------+--------------+----------------+
+|       8|       113886|         64327|824.010928201529|
++--------+-------------+--------------+----------------+
+
+Operation stats-district on file 'cc-p.parquet' finished in 18.936381100000002 seconds

@@ -1,0 +1,115 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] Some problems were encountered while building the effective model for edu.ucr.cs.cs167.ccamp032:ccamp032_lab5:jar:1.0-SNAPSHOT
+[[1;33mWARNING[m] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-jar-plugin is missing. @ line 73, column 15
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] It is highly recommended to fix these problems because they threaten the stability of your build.
+[[1;33mWARNING[m] 
+[[1;33mWARNING[m] For this reason, future Maven versions might no longer support building such malformed projects.
+[[1;33mWARNING[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------< [0;36medu.ucr.cs.cs167.ccamp032:ccamp032_lab5[0;1m >---------------[m
+[[1;34mINFO[m] [1mBuilding ccamp032_lab5 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Deleting /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscala-maven-plugin:3.3.2:compile[m [1m(default)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/src/main/scala:-1: info: compiling
+[[1;34mINFO[m] Compiling 1 source files to /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/target/classes at 1588658649771
+[[1;34mINFO[m] prepare-compile in 0 s
+[[1;34mINFO[m] compile in 4 s
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscala-maven-plugin:3.3.2:testCompile[m [1m(default)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/src/test/scala:-1: info: compiling
+[[1;34mINFO[m] Compiling 3 source files to /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/target/test-classes at 1588658654586
+[[1;34mINFO[m] prepare-compile in 0 s
+[[1;34mINFO[m] compile in 5 s
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.21.0:test[m [1m(default-test)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Tests are skipped.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mscalatest-maven-plugin:2.0.0:test[m [1m(test)[m @ [36mccamp032_lab5[0;1m ---[m
+[36mRun starting. Expected test count is: 1[0m
+[32mJUnitWrapperSuite:[0m
+[32m- testOK[0m
+[36mRun completed in 182 milliseconds.[0m
+[36mTotal number of tests run: 1[0m
+[36mSuites: completed 1, aborted 0[0m
+[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m
+[32mAll tests passed.[0m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:2.4:jar[m [1m(default-jar)[m @ [36mccamp032_lab5[0;1m ---[m
+[[1;34mINFO[m] Building jar: /mnt/c/Users/campo/Documents/CWC/UCR/2019-2020 Year/Spring 2020/CS167/workspace/ccamp032_lab5/target/ccamp032_lab5-1.0-SNAPSHOT.jar
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  15.541 s
+[[1;34mINFO[m] Finished at: 2020-05-04T23:04:21-07:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+ Total count for file 'nasa_19950630.22-19950728.12.tsv is 1891710
+Command 'count-all' on file 'nasa_19950630.22-19950728.12.tsv' finished in 3.5372859 seconds
+ Total count for file 'nasa_19950630.22-19950728.12.tsv with response code 302 is 46573
+Command 'code-filter' on file 'nasa_19950630.22-19950728.12.tsv' finished in 3.7150866000000002 seconds
+ Total count for file 'nasa_19950630.22-19950728.12.tsv in time range [804955673, 805590159] is 554919
+Command 'time-filter' on file 'nasa_19950630.22-19950728.12.tsv' finished in 4.5598293000000005 seconds
+Number of lines per code for the file 
+Code,Count
+302,46573
+501,14
+404,10845
+500,62
+403,54
+304,132627
+200,1701534
+Command 'count-by-code' on file 'nasa_19950630.22-19950728.12.tsv' finished in 5.2446465 seconds
+Number of bytes per code for the file 
+nasa_19950630.22-19950728.12.tsv
+Code,Sum(bytes)
+501,0
+403,0
+304,0
+200,38692291442
+404,0
+302,3682049
+500,0
+Command 'sum-bytes-by-code' on file 'nasa_19950630.22-19950728.12.tsv' finished in 5.334783000000001 seconds
+Average bytes per code for the file nasa_19950630.22-19950728.12.tsv
+Code,Avg(bytes)
+501,0.0
+403,0.0
+304,0.0
+200,22739.652244386536
+404,0.0
+302,79.0597341807485
+500,0.0
+Command 'avg-bytes-by-code' on file 'nasa_19950630.22-19950728.12.tsv' finished in 6.866162900000001 seconds
+Top host in the file by number of entriesnasa_19950630.22-19950728.12.tsv
+Host: piweba3y.prodigy.com 
+Number of entries: 17572
+Command 'top-host' on file 'nasa_19950630.22-19950728.12.tsv' finished in 9.357309200000001 seconds
+Comparison of the number of lines per code before and after 805383872 on file nasa_19950630.22-19950728.12.tsv
+Code,Count before,Count after
+302,21057,25516
+501,2,12
+404,3864,6981
+500,53,9
+403,19,35
+304,38000,94623
+200,594412,1107122
+Command 'comparison' on file 'nasa_19950630.22-19950728.12.tsv' finished in 9.157781100000001 seconds

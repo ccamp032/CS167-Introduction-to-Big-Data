@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63bfa236-a178-48d3-8359-188f94c42339" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHZwcaoK2wVtIYfaF40LoAdjIA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.ccamp032.App" />
+      <module name="ccamp032_lab2" />
+      <option name="PROGRAM_PARAMETERS" value="AREAWATER.csv AREAWATER_COPY.csv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.ccamp032.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63bfa236-a178-48d3-8359-188f94c42339" name="Default Changelist" comment="" />
+      <created>1586394719271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586394719271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586555256774">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="95" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1586555256774" />
+    <state x="420" y="116" key="FileChooserDialogImpl" timestamp="1586479233553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="420" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586479233553" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1586661427147">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586661427147" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1586661427147">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586661427147" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1586661427147">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586661427147" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1586661427147">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586661427147" />
+  </component>
+</project>

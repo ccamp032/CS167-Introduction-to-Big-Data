@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e18c9b18-6ff0-4e26-b606-2ff95fce7d24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayDuFiJoyjup3xYhNoryW6nSHm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Aggregation">
+    <configuration name="Aggregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.ccamp032.Aggregation" />
+      <module name="ccamp032_lab4" />
+      <option name="PROGRAM_PARAMETERS" value="nasa_19950801.tsv aggregation_output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.ccamp032.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.ccamp032.App" />
+      <module name="ccamp032_lab4" />
+      <option name="PROGRAM_PARAMETERS" value="nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.ccamp032.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.ccamp032.Filter" />
+      <module name="ccamp032_lab4" />
+      <option name="PROGRAM_PARAMETERS" value="nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.ccamp032.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Filter" />
+      <item itemvalue="Application.Aggregation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aggregation" />
+        <item itemvalue="Application.Filter" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18c9b18-6ff0-4e26-b606-2ff95fce7d24" name="Default Changelist" comment="" />
+      <created>1587699160859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587699160859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="20" key="#Project_Structure" timestamp="1587705498540">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1587705498540" />
+    <state x="96" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588018542289">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="0" width="1089" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1588018542289" />
+    <state x="421" y="117" key="FileChooserDialogImpl" timestamp="1587700317517">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1587700317517" />
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom" timestamp="1588020062984">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588020062984" />
+    <state width="1237" height="178" key="GridCell.Tab.0.center" timestamp="1588020062984">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="178" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588020062984" />
+    <state width="1237" height="178" key="GridCell.Tab.0.left" timestamp="1588020062984">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="178" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588020062984" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right" timestamp="1588020062984">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="178" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588020062984" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587710617882">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1587710617882" />
+  </component>
+</project>

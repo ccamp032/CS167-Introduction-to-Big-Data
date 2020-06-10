@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="ccamp032_lab5">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\campo\Documents\CWC\UCR\2019-2020 Year\Spring 2020\CS167\workspace\ccamp032_lab5\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
