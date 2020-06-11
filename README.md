@@ -12,4 +12,4 @@ CS 167 covers the data management and systems aspects of big data platforms such
 * An overview of key-value stores
 * Big SQL systems (e.g., AsterixDB, Impala, and SparkSQL)
 
-Course overview taken from Prof. Eldawy's CS167:Introduction to Big-data syllabus
+#### Course overview taken from Prof. Eldawy's CS167:Introduction to Big-data syllabus
