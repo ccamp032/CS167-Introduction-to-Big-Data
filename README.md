@@ -1,4 +1,4 @@
-# CS167-Introduction-to-Big-Data
+# CS167 Introduction to Big-Data
 
 ## Course overview
 
